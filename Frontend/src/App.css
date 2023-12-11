@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Asap&family=Island+Moments&family=Merienda&display=swap");
+
+#toast-container {
+  top: 30px !important;
+  right: 50px !important;
+  left: auto !important;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(136, 136, 136, 0.281);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* body {
+  background-color: blue;
+} */
