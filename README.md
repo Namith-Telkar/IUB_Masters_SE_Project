@@ -1,4 +1,4 @@
-# Social Music Network
+# Sharify - Social Networking Website
 
 ## Overview
 This project is a social networking website where users can share the music they are currently listening to by uploading Spotify links. It utilizes the MERN (MongoDB, Express.js, React.js, Node.js) stack along with the Spotify API and SendGrid API for integration. The application is deployed using Render and Netlify.
